@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Week-2-code-challenge-
 
 Event Guest List Manager
@@ -46,3 +47,6 @@ JavaScript
 
 Author
 Wanjiku Mwaura
+=======
+
+>>>>>>> bced13b0c752d0471e07fc97a152b3d96d14b4f1
